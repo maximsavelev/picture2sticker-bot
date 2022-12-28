@@ -25,10 +25,10 @@ public class TelegramBot extends TelegramLongPollingBot {
     private String botUsername;
 
     private final String resizedImageMessage = "Sticker %s - maintaining proportions." +
-                                               "\nSend @Sticker to add it to sticker pack";
+                                               "\nSend @Stickers to add it to sticker pack";
 
     private final String plainImageMessage = "Sticker (512x512) - ultra wide." +
-                                             "\nSend @Sticker to add it to sticker pack";
+                                             "\nSend @Stickers to add it to sticker pack";
 
 
     private final String helpMessage = """
