@@ -1,5 +1,5 @@
 
-##  "Photo to sticker" Telegram bot
+##  "Photo to sticker" telegram bot
 
 It's a simple bot realization that helps generate stickers from photos.
 
